@@ -1,0 +1,8 @@
+# Conventional Commits (https://www.conventionalcommits.org/) are used:
+#   feat: | fix: | refactor: | perf: | test: | docs: | chore:
+#
+# Commit message format:
+#   <type>(<optional scope>): <short imperative summary>
+#
+#   Body explaining WHY the change is needed (not just what changed).
+#   Footer with references to issues/PRs when applicable.
